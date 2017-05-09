@@ -165,10 +165,10 @@ window.onerror = killErrors;
     <div id="navMenubar">
 <ul>
  
-<li id="new"><a href="#">新建</a></li>
+<!-- <li id="new"><a href="#">新建</a></li>
 <li id="save"><a href="#" title="保存留言窗口的位置信息">位置</a></li>
  
-<li id="stat"><a href="#">历史</a></li>
+<li id="stat"><a href="#">历史</a></li> -->
  
 </ul>
     </div>
