@@ -1,6 +1,6 @@
 version: "0.1.0"
 pre_ci_boot:
-    image: 10.9.91.208:5000/maven
+    image: 10.9.125.233:5000/maven
     tag: "1.0"
 
 ci:
