@@ -76,13 +76,6 @@
 			<artifactId>mapper</artifactId>
 			<version>${mapper.version}</version>
 		</dependency>
-		
-		<!-- Oracle版权问题，maven目录必须自己手动建立 -->
-		<dependency> 
-			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc6</artifactId>
-			<version>11.1.0.7.0</version>
-		</dependency>
 
 		<!-- MySql -->
 		<dependency>
